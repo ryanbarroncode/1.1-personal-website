@@ -1,0 +1,53 @@
+p{color: white;
+  text-align: center;
+}
+
+.denali{width: 1000px;}
+
+
+
+.cruise-info{display: inline;}
+body{
+  color:#FFFFFF;
+  background-size: 100;
+  background-repeat: repeat;
+}
+.glacier-body {
+  background-image: url('http://www.alaska.org/photos/gallery3/var/albums/Best-of-Alaska-Articles/Best-Glacier-Cruise-Experiences/Glacier-Bay/Glacier%20Bay%20National%20Park-07.jpg?m=1385079152');
+}
+.index-body{
+background-image: url('http://www.alaska.org/photos/gallery3/var/albums/Best-of-Alaska-Articles/20-Photo-Locations/Northern-lights-in-Fairbanks.jpg?m=1419296134');
+
+}
+p {
+  line-height: 1.1em;
+  font-size: 1.2em;
+  font-family: "times new-roman";
+}
+
+
+h1, h2, h3, h4{
+  text-align: center;
+}
+
+
+.nav-links{
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 0;
+  list-style: none;
+
+}
+
+.nav-links{
+  border: 2px solid red;
+  display: inline-block;
+  width: 400px;
+  text-align: center;
+}
+
+.nav-links{
+  text-decoration: none;
+  color: blue;
+}
